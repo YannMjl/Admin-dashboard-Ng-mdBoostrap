@@ -22,7 +22,7 @@
     "@angular/router": "~8.0.0",
     "@fortawesome/fontawesome-free": "^5.6.3",
     "angular-calendar": "^0.25.2",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "core-js": "^2.5.4",
     "rxjs": "~6.5.2",
     "zone.js": "~0.9.1",
