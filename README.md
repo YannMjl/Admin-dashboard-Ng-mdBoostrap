@@ -1,4 +1,4 @@
-# Angular Admin Dashboard - MDBootstrap
+# Admin Dashboard - MDBootstrap
 
 > Responsive Admin Dashboard template containing different styles of dashboards, data presentations, and numerous insightful components. 
 
